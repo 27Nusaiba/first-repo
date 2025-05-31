@@ -26,11 +26,11 @@
 ## 📂 Projects
 > Real projects added as I grow — check back often!
 
-- [🔹 The Online shopping management system – A DBMS Project](#)  
+ - The Online shopping management system – A DBMS Project](#)  
   *An online shopping website for cutomers HTML, CSS, and JavaScript*
-- [🔹 Outbreak Management system – Online Lab Manager Application](#)  
+ - Outbreak Management system – Online Lab Manager Application](#)  
   *An online application that records all transactions made at the daily tests using front end and backend frameworks*
-- [🔹 Amazon Prime Clone Website ](#)  
+-  Amazon Prime Clone Website ](#)  
   *Basic Layout using HTML, CSS & JS for practice*
   
 ---
